@@ -3,18 +3,4 @@ title: Online Ads
 ---
 
 <h3>Online Ads</h3>
-<div style='background-color:white;'>
-  <ul id='my-gallery' class="media-grid">
-    <% data.images['ads'].each  do |photo| %>
-    <li>
-      <a href="/images/portfolio/<%= photo[:file] %>" title='<%= photo[:title] %>' rel="lightbox-journey">
-        <div class="img-container"  align="center">
-          <img class="thumbnail" src="/images/portfolio/<%= photo[:file] %>" alt="">
-        </div>
-      </a>
-    </li>
-    <% end %>
-  </ul>
-</div>
-
-
+<%= partial "s/block_images", :locals => {:category => 'ads'} %>
