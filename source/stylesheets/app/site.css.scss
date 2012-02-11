@@ -1,0 +1,40 @@
+body {
+  font-family:verdana, arial, sans serif;
+  background: url('/images/misc/main.jpg') no-repeat;
+}
+
+#left-container{
+  background: url('/images/misc/head.jpg') no-repeat;
+  min-height: 100px;
+}
+
+
+.text p{
+  font-size:11px;
+}
+
+#quote{
+  margin-top:100px;
+  margin-left:40px;
+  color: #000;
+}
+
+$img_size: 173px; // 3x
+//$img_size: 120px; // 4x
+//$img_size: 92px; // 5x
+
+.img-container{
+  height: $img_size;
+  width:$img_size;
+  vertical-align: middle;
+  display: table-cell;
+  img{
+    max-width:100%;
+    max-height:100%;
+  }
+}
+
+.photo_main{
+  height: 178px;
+  width: 272px;
+}

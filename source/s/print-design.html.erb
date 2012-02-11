@@ -1,0 +1,20 @@
+---
+title: Print Design
+---
+
+<h3>Print Design</h3>
+<div style='background-color:white;'>
+  <ul id='my-gallery' class="media-grid">
+    <% data.images['print'].each  do |photo| %>
+    <li>
+      <a href="/images/portfolio/<%= photo[:file] %>" title='test title' rel="lightbox-journey">
+        <div class="img-container"  align="center">
+          <img class="thumbnail" src="/images/portfolio/<%= photo[:file] %>" alt="">
+        </div>
+      </a>
+    </li>
+    <% end %>
+  </ul>
+</div>
+
+
