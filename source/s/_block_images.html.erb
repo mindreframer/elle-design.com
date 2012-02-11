@@ -1,12 +1,15 @@
 
 <div style='background-color:white;'>
-  <ul id='my-gallery' class="media-grid">
+  <ul id='gallery' class="media-grid">
     <% data.images[category].each  do |photo| %>
     <li>
-      <a href="/images/portfolio/<%= photo[:file] %>" title='test title' rel="lightbox-journey">
+      <a href="/images/portfolio/<%= photo[:file] %>" title='<%= photo[:title] %>' rel="lightbox-journey">
         <div class="img-container"  align="center">
+
           <img class="thumbnail" src="/images/portfolio/<%= photo[:file] %>" alt="">
+
         </div>
+        <div class='img_title'><%= photo[:title] %></div>
       </a>
     </li>
     <% end %>
