@@ -1,27 +1,31 @@
 ads:
-- :title: SUPER
+- :title: Online Advertising for Various Businesses example 1
   :file: ads/01_valastro.jpg
-- :title: Leafman...
+- :title: Online Advertising for Various Businesses example 2
   :file: ads/02_leafman.jpg
-- :title: title
+- :title: Online Advertising for Various Businesses example 3
   :file: ads/03.jpg
-- :title: title
+- :title: Online Advertising for Various Businesses example 4
   :file: ads/04.jpg
-- :title: title
+- :title: Online Advertising for Various Businesses example 5
   :file: ads/05.jpg
 logo:
-- :title: title
-  :file: logo/01_beaming logo.jpg
-- :title: title
+- :title: Logotype for Music Production Company
+  :file: logo/01_beaminglogo.jpg
+- :title: Logotype for Building Management Company
   :file: logo/02_finlogo2.jpg
-- :title: title
+- :title: Logotype for Frosen Foods Company
   :file: logo/03_gourmentnew.jpg
-- :title: title
+- :title: Logotype for Restaurant
   :file: logo/04_queen.jpg
-- :title: title
+- :title: Logotype for Rent a Car
   :file: logo/05_drive_a_car.jpg
-- :title: title
+- :title: Logotype for Energy Management Company
   :file: logo/06_optergy.jpg
+- :title: Logotype for Sience Engeneering Company
+  :file: logo/07_sptm.jpg
+- :title: Logotype for Art Project
+  :file: logo/08_logo2.jpg
 misc:
 - :title: title
   :file: misc/01_magnet_ariadne.jpg
