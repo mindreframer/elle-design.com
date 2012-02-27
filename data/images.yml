@@ -34,99 +34,88 @@ misc:
 - :title: title
   :file: misc/03_waschsalon_115.jpg
 print:
-- :title: title
+- :title: Alerton Engeneering Company - Magazine Advertising
   :file: print/01.jpg
-- :title: title
+- :title: Alerton Engeneering Company - Magazine Advertising
   :file: print/02.jpg
-- :title: title
+- :title: Alerton Engeneering Company - Magazine Advertising
   :file: print/03.jpg
-- :title: title
+- :title: Australian Craft Markets Brochure
   :file: print/04.jpg
-- :title: title
+- :title: Alephartproekt flyer front
   :file: print/05.jpg
-- :title: title
+- :title: Alephartproekt flyer back
   :file: print/06.jpg
-- :title: title
+- :title: Beaming music production company Logo with letterhead
   :file: print/07.gif
-- :title: title
+- :title: flyer- card for festival 'Lass den Tacheles in Dorf'title
   :file: print/08.jpg
-- :title: title
+- :title: Tie shirt for festival 'Lass den Tacheles in Dorf' front
   :file: print/09.jpg
-- :title: title
+- :title: Concept brochure for Film Production company film ' Upsala'
   :file: print/10.jpg
-- :title: title
+- :title: Concept brochure for Film Production company film ' Budlana - aus dem Tal der Winde
   :file: print/11.jpg
-- :title: title
+- :title: Cafe Stand
   :file: print/12.jpg
-- :title: title
+- :title: Cafe Stand
   :file: print/13.jpg
-- :title: title
+- :title: Greek restaurant flyer
   :file: print/14.jpg
-- :title: title
+- :title: Restaurant business card
   :file: print/15.jpg
-- :title: title
+- :title: Restaurant fyer
   :file: print/16.jpg
-- :title: title
+- :title: Restaurant brunch promo banner
   :file: print/17.jpg
-- :title: title
+- :title: Engeneering newsletter Engeneering brochure
   :file: print/18.jpg
-- :title: title
+- :title: On car advertising
+  :file: print/19.jpg
+  - :title: Shop front advertising
+  :file: print/19.jpg
+  - :title: Restaurant menu 1
+  :file: print/19.jpg
+  - :title: Restaurant menu 2
+  :file: print/19.jpg
+  - :title: Restaurant menu 3
   :file: print/19.jpg
 ui:
-- :title: title
+- :title: Interactive map University 1
   :file: ui/arrBlL.jpg
-- :title: title
+- :title: Interactive map University 2
   :file: ui/BMS_AHU1_browser.jpg
-- :title: title
+- :title: Interactive map Hospitals 
   :file: ui/calender1.gif
-- :title: title
+- :title: Touch screen enviromental school project 1
   :file: ui/calender2.jpg
-- :title: title
+- :title: Touch screen enviromental school project 2
   :file: ui/citycampus.jpg
-- :title: title
+- :title: Touch screen enviromental school project 3
   :file: ui/display.jpg
-- :title: title
+- :title: Touch screen enviromental school project 4
   :file: ui/greenmap.jpg
-- :title: title
+- :title: Touch screen enviromental school project 5
   :file: ui/hmap.jpg
-- :title: title
+- :title: Touch screen enviromental school project 6
   :file: ui/house_all_co2.jpg
-- :title: title
+- :title: System design Tabs and Icons
   :file: ui/house_electricity.jpg
-- :title: title
+- :title: System design Tabs
   :file: ui/house_green.jpg
-- :title: title
+- :title: System design Levels
   :file: ui/house_water.jpg
-- :title: title
+- :title: System design Shedules and Calenders
   :file: ui/main.jpg
-- :title: title
+- :title: Data display
   :file: ui/meterstableweb.jpg
-- :title: title
-  :file: ui/RMITscreen.jpg
-- :title: title
-  :file: ui/RMITscreen2.jpg
-- :title: title
-  :file: ui/site_green.jpg
-- :title: title
-  :file: ui/st_house_all.jpg
-- :title: title
-  :file: ui/stvillage_green.jpg
-- :title: title
-  :file: ui/stvillage_green4.jpg
-- :title: title
-  :file: ui/tab2alarm.jpg
-- :title: title
-  :file: ui/tabimages.jpg
-- :title: title
-  :file: ui/touchscreen_frontscr.jpg
-- :title: title
-  :file: ui/trackenrg.jpg
+
 web:
-- :title: title
+- :title: Website for Children Protection Organisation Russia
   :file: web/01_friskunst.jpg
-- :title: title
+- :title: Website for Science Technology company
   :file: web/02_friskunst2.jpg
-- :title: title
+- :title: Website for Hairdresser Saloon
   :file: web/03_transformer_life.jpg
 - :title: title
   :file: web/04_zashita_detstva.jpg
