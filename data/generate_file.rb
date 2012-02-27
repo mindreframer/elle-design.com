@@ -1,3 +1,4 @@
+require 'yaml'
 dirs = Dir["**"]
 
 res = {}
