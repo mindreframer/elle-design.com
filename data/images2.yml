@@ -1,0 +1,155 @@
+---
+ads:
+- :title: Online Advertising for Various Businesses example 1
+  :file: ads/01.jpg
+- :title: Online Advertising for Various Businesses example 2
+  :file: ads/02.jpg
+- :title: Online Advertising for Various Businesses example 3
+  :file: ads/03.jpg
+- :title: Online Advertising for Various Businesses example 4
+  :file: ads/04.jpg
+- :title: Online Advertising for Various Businesses example 5
+  :file: ads/05.jpg
+logo:
+- :title: Logotype for Music Production Company
+  :file: logo/01_beaming.jpg
+- :title: title
+  :file: logo/02_karbonex.jpg
+- :title: title
+  :file: logo/03_gourment.jpg
+- :title: title
+  :file: logo/04_queennew.jpg
+- :title: title
+  :file: logo/05_drivecar.jpg
+- :title: title
+  :file: logo/06_optergy.jpg
+- :title: title
+  :file: logo/07_sptm.jpg
+- :title: title
+  :file: logo/08_logo2.jpg
+misc:
+- :title: title
+  :file: misc/01_secretseu.jpg
+- :title: title
+  :file: misc/02_secretseu.jpg
+- :title: title
+  :file: misc/03_secretseu.jpg
+- :title: title
+  :file: misc/04_volki.jpg
+- :title: title
+  :file: misc/05_goldfish.jpg
+- :title: title
+  :file: misc/06_atia.jpg
+- :title: title
+  :file: misc/07_nabi.jpg
+- :title: title
+  :file: misc/08_olyaearng.jpg
+- :title: title
+  :file: misc/09_olyavase.jpg
+- :title: title
+  :file: misc/10_car.jpg
+- :title: title
+  :file: misc/11_nost.jpg
+- :title: title
+  :file: misc/12_atomicrice.jpg
+- :title: title
+  :file: misc/13_love.jpg
+- :title: title
+  :file: misc/14_scetch.jpg
+- :title: title
+  :file: misc/15_scetch2.jpg
+- :title: title
+  :file: misc/16_interactive.jpg
+print:
+- :title: title
+  :file: print/01.jpg
+- :title: title
+  :file: print/02.jpg
+- :title: title
+  :file: print/03.jpg
+- :title: title
+  :file: print/04.jpg
+- :title: title
+  :file: print/05.jpg
+- :title: title
+  :file: print/06.jpg
+- :title: title
+  :file: print/07.jpg
+- :title: title
+  :file: print/08.jpg
+- :title: title
+  :file: print/09.jpg
+- :title: title
+  :file: print/10.jpg
+- :title: title
+  :file: print/11.jpg
+- :title: title
+  :file: print/12.jpg
+- :title: title
+  :file: print/13.jpg
+- :title: title
+  :file: print/14.jpg
+- :title: title
+  :file: print/15.jpg
+- :title: title
+  :file: print/16.jpg
+- :title: title
+  :file: print/17.jpg
+- :title: title
+  :file: print/18.jpg
+- :title: title
+  :file: print/19.jpg
+- :title: title
+  :file: print/20_jalba.jpg
+- :title: title
+  :file: print/21_cafe115.jpg
+- :title: title
+  :file: print/22_berkis_seite_1.jpg
+- :title: title
+  :file: print/23_berkis_seite_2.jpg
+- :title: title
+  :file: print/24_berkis_seite_5.jpg
+ui:
+- :title: title
+  :file: ui/01_rmit.jpg
+- :title: title
+  :file: ui/02_rmit.jpg
+- :title: title
+  :file: ui/03_hospvic.jpg
+- :title: title
+  :file: ui/03_house_electricity.jpg
+- :title: title
+  :file: ui/04_house_green.jpg
+- :title: title
+  :file: ui/05_house_water.jpg
+- :title: title
+  :file: ui/06_site_green.jpg
+- :title: title
+  :file: ui/07_st_house_all.jpg
+- :title: title
+  :file: ui/08_stvillage_green4.jpg
+- :title: title
+  :file: ui/09_tab2alarm.jpg
+- :title: title
+  :file: ui/10_tabimages.jpg
+- :title: title
+  :file: ui/11_touchscreen_frontscr.jpg
+- :title: title
+  :file: ui/12_trackenrg.jpg
+- :title: title
+  :file: ui/13_trg.jpg
+- :title: title
+  :file: ui/14_meterstablewfin.jpg
+web:
+- :title: title
+  :file: web/01_zashitadetstva.jpg
+- :title: title
+  :file: web/02_transformerlife.jpg
+- :title: title
+  :file: web/03_friskunst.jpg
+- :title: title
+  :file: web/04_aleph.jpg
+- :title: title
+  :file: web/05_100yearsofpowrd flight.jpg
+- :title: title
+  :file: web/06_gill.jpg
