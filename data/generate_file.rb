@@ -9,3 +9,14 @@ dirs.each do |d|
 end
 
 puts res.to_yaml
+
+
+##### renamed to standard
+Dir["*/**"].map{|source|
+  file = File.basename(source)
+  file = file.gsub(/^(\d*)(_*)/, '\1_' ).gsub('_.', '.').downcase
+  target = File.join(File.dirname(source), file)
+  `mv #{source} #{target}`
+  target
+}
+
