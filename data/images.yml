@@ -72,20 +72,20 @@ print:
   :file: print/18.jpg
 - :title: On car advertising
   :file: print/19.jpg
-  - :title: Shop front advertising
+- :title: Shop front advertising
   :file: print/19.jpg
-  - :title: Restaurant menu 1
+- :title: Restaurant menu 1
   :file: print/19.jpg
-  - :title: Restaurant menu 2
+- :title: Restaurant menu 2
   :file: print/19.jpg
-  - :title: Restaurant menu 3
+- :title: Restaurant menu 3
   :file: print/19.jpg
 ui:
 - :title: Interactive map University 1
   :file: ui/arrBlL.jpg
 - :title: Interactive map University 2
   :file: ui/BMS_AHU1_browser.jpg
-- :title: Interactive map Hospitals 
+- :title: Interactive map Hospitals
   :file: ui/calender1.gif
 - :title: Touch screen enviromental school project 1
   :file: ui/calender2.jpg
@@ -109,7 +109,6 @@ ui:
   :file: ui/main.jpg
 - :title: Data display
   :file: ui/meterstableweb.jpg
-
 web:
 - :title: Website for Children Protection Organisation Russia
   :file: web/01_friskunst.jpg
