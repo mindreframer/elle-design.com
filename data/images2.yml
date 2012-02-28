@@ -30,8 +30,8 @@ logo:
 misc:
 - :title: Stereographic Animation 3D - University Masters Final Project 1
   :file: misc/01_secretseu.jpg
-- :title: Stereographic Animation 3D - University Masters Final Project 1
-  :file: Stereographic Animation 3D - University Masters Final Project 3
+- :title: Stereographic Animation 3D - University Masters Final Project 3
+  :file: misc/02_secretseu.jpg
 - :title: Painting Oil on Canvas 1
   :file: misc/03_secretseu.jpg
 - :title: Painting Oil on Canvas 2
@@ -114,13 +114,13 @@ ui:
   :file: ui/01_rmit.jpg
 - :title: Interactive map University 2
   :file: ui/02_rmit.jpg
-- :title: Interactive map Hospitals 
+- :title: Interactive map Hospitals
   :file: ui/03_hospvic.jpg
-- :title: Touch screen enviromental school project 1 
+- :title: Touch screen enviromental school project 1
   :file: ui/03_house_electricity.jpg
-- :title: Touch screen enviromental school project 2 
+- :title: Touch screen enviromental school project 2
   :file: ui/04_house_green.jpg
-- :title: Touch screen enviromental school project 3 
+- :title: Touch screen enviromental school project 3
   :file: ui/05_house_water.jpg
 - :title: Touch screen enviromental school project 4
   :file: ui/06_site_green.jpg
