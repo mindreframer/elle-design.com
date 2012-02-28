@@ -41,6 +41,9 @@ $img_size: 173px; // 3x
     max-height:100%;
   }
 }
+.thumb-container{
+  height: $img_size + 45px;
+}
 .img_title{
   width:$img_size;
   text-align: center;
