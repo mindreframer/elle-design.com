@@ -42,8 +42,10 @@ $img_size: 173px; // 3x
 }
 .thumb-container{
   height: $img_size + 45px;
+  padding-left: 10px;
 }
 .img_title{
+  padding-top: 5px;
   width:$img_size;
   text-align: center;
   color: #000;
