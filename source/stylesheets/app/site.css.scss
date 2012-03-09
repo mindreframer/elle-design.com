@@ -34,7 +34,7 @@ body {
   color: #000;
 }
 
-$img_size: 173px; // 3x
+$img_size: 150px; // 3x
 //$img_size: 120px; // 4x
 //$img_size: 92px; // 5x
 
@@ -61,6 +61,7 @@ $img_size: 173px; // 3x
 }
 
 #gallery{
+  margin-left: 3px;
   a{
     text-decoration:none;
     &:hover{
