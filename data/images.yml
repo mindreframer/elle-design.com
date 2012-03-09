@@ -30,29 +30,29 @@ logo:
 misc:
 - :title: Stereographic Animation 3D - University Masters Final Project 1
   :file: misc/01_secretseu.jpg
-- :title: Stereographic Animation 3D - University Masters Final Project 3
+- :title: Stereographic Animation 3D - University Masters Final Project 2
   :file: misc/02_secretseu.jpg
-- :title: Painting Oil on Canvas 1
+- :title: Stereographic Animation 3D - University Masters Final Project 3
   :file: misc/03_secretseu.jpg
-- :title: Painting Oil on Canvas 2
+- :title: Painting Oil on Canvas 1
   :file: misc/04_volki.jpg
-- :title: Painting Oil on Canvas 3
+- :title: Painting Oil on Canvas 2
   :file: misc/05_goldfish.jpg
-- :title: Painting Oil on Canvas 4
+- :title: Painting Oil on Canvas 3
   :file: misc/06_atia.jpg
-- :title: Painting Oil on Canvas 5
+- :title: Painting Oil on Canvas 4
   :file: misc/07_nabi.jpg
-- :title: Painting Oil on Canvas 6
+- :title: Painting Oil on Canvas 5
   :file: misc/08_olyaearng.jpg
-- :title: Painting Oil on Canvas 7
+- :title: Painting Oil on Canvas 6
   :file: misc/09_olyavase.jpg
-- :title: Painting Oil on Canvas 8
+- :title: Painting Oil on Canvas 7
   :file: misc/10_car.jpg
-- :title: Painting Oil on Canvas 9
+- :title: Painting Oil on Canvas 8
   :file: misc/11_nost.jpg
-- :title: Painting Oil on Canvas 10
+- :title: Painting Oil on Canvas 9
   :file: misc/12_atomicrice.jpg
-- :title: Painting Oil on Canvas 11
+- :title: Painting Oil on Canvas 10
   :file: misc/13_love.jpg
 - :title: Scetch 1
   :file: misc/14_scetch.jpg
@@ -149,7 +149,7 @@ web:
   :file: web/03_friskunst.jpg
 - :title: Website for Art Project
   :file: web/04_aleph.jpg
-- :title: Website for Architects
-  :file: web/05_100yearsofpowrd flight.jpg
 - :title: University group project Flash - graphics and interactivity
+  :file: web/05_100yearsofpowrd flight.jpg
+- :title: Website for Architects 
   :file: web/06_gill.jpg
