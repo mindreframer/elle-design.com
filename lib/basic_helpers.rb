@@ -13,6 +13,11 @@ module BasicHelpers
     request.path =~ /guides/
   end
 
+
+  def is_mainpage?
+    request.path =~ /index/
+  end
+
   def active_if(regex)
     request.path =~ regex ? "active" : ''
   end

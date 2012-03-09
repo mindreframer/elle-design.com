@@ -10,7 +10,11 @@ body {
   left: -188px;
   height: 753px;
   width: 487px;
+  &.black-white{
+    background: url('/images/misc/elya_side_blackwhite.jpg') no-repeat;
+  }
 }
+
 
 #left-container{
   min-height: 100px;
